@@ -2,6 +2,8 @@
 
 A simple python wrapper for the [Firebase API](https://firebase.google.com).
 
+This branch of Pyrebase has been modified for use with the Delta Solar Charger
+
 ## Installation
 
 ```python
